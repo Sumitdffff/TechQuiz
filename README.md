@@ -1,20 +1,22 @@
 # 🧠 TechQuiz – Java-Based Quiz App
 
-**TechQuiz** ek unique **Java Swing-based Quiz Application** hai jisme MCQs, timer, lifeline aur score calculation ka complete system diya gaya hai. Ye desktop app clean UI ke saath real quiz experience provide karti hai.
+**TechQuiz** is a unique **Java Swing-based Quiz Application** that provides a complete MCQ system with a timer, lifeline, and score calculation.  
+This desktop application offers a real quiz experience with a clean and attractive user interface.
 
 ---
 
 ## 🖥️ Project Overview
 
-Project 100% **Java Swing** me develop kiya gaya hai. Isme ek realistic quiz environment create kiya gaya hai jisme timer, rules aur score window shamil hai.
+This project is developed using **100% Java Swing**.  
+It creates a realistic quiz environment that includes a timer, quiz rules, and a final score window.
 
 ### Highlights:
 
-* ✔ Timer-based MCQ quiz (15 sec per question)
-* ✔ 50-50 Lifeline system
-* ✔ 4-options multiple choice format
-* ✔ Score window at the end
-* ✔ Clean & attractive GUI
+- ✔ Timer-based MCQ quiz (15 seconds per question)
+- ✔ 50-50 lifeline system
+- ✔ 4-option multiple-choice format
+- ✔ Final score window
+- ✔ Clean and attractive GUI
 
 ---
 
@@ -22,29 +24,29 @@ Project 100% **Java Swing** me develop kiya gaya hai. Isme ek realistic quiz env
 
 ### 📝 Quiz System
 
-* Har question ke liye 4 options
-* 15-second countdown timer
-* Auto-lock question on timeout
-* Next & Submit buttons
+- Four options for each question
+- 15-second countdown timer
+- Automatic question lock on timeout
+- Next and Submit buttons
 
 ### 🎯 Lifeline
 
-* **50-50 Lifeline** (2 galat options hide ho jate hain)
-* Only once usable per quiz
+- **50-50 Lifeline** (hides two incorrect options)
+- Can be used only once per quiz
 
 ### 🖥️ GUI
 
-* Java Swing based UI
-* Colorful question panel
-* Easy navigation buttons
-* Smooth interface
+- Java Swing–based user interface
+- Colorful question panel
+- Easy navigation buttons
+- Smooth and user-friendly layout
 
 ---
 
 ## 💾 Database (Optional)
 
-* Questions array me stored hain
-* Future version: database question storage add kiya ja sakta hai
+- Questions are stored in arrays
+- Future versions can include database-based question storage
 
 ---
 
@@ -52,14 +54,14 @@ Project 100% **Java Swing** me develop kiya gaya hai. Isme ek realistic quiz env
 
 ### **Frontend + Backend**
 
-* Java (Core Java)
-* Java Swing
-* Java AWT
+- Java (Core Java)
+- Java Swing
+- Java AWT
 
 ### **Tools Used**
 
-* NetBeans / IntelliJ / VS Code
-* JDK 8+
+- NetBeans / IntelliJ / VS Code
+- JDK 8+
 
 ---
 
@@ -67,28 +69,28 @@ Project 100% **Java Swing** me develop kiya gaya hai. Isme ek realistic quiz env
 
 ### **GUI Components**
 
-* Login Window (optional)
-* Rules Window
-* Quiz Window
-* Score Window
+- Login Window (optional)
+- Rules Window
+- Quiz Window
+- Score Window
 
 ### **Quiz Logic**
 
-* Question & Answer arrays
-* Timer thread
-* Option selection
-* Lifeline logic
-* Score calculation
+- Question and answer arrays
+- Timer thread
+- Option selection handling
+- Lifeline logic
+- Score calculation
 
 ---
 
 ## 🎯 Purpose of the Project
 
-* Java Swing GUI practice
-* Timer & Event-handling practice
-* College mini-project
-* Technical quiz simulation
-* Complete desktop-based MCQ system
+- Practice Java Swing GUI development
+- Learn timer and event-handling concepts
+- College mini-project
+- Technical quiz simulation
+- Complete desktop-based MCQ system
 
 ---
 
@@ -112,4 +114,3 @@ Project 100% **Java Swing** me develop kiya gaya hai. Isme ek realistic quiz env
 </td>
 </tr>
 </table>
-
